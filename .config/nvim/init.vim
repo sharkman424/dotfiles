@@ -9,4 +9,5 @@ syntax on
 set showmatch
 set ignorecase
 set cursorline
+inoremap jj <esc>
 
